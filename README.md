@@ -19,3 +19,12 @@ Curso **mais completo e atual que qualquer curso pago!!!** Feito diretamente e g
   - [Mateus Guimarães - WendellAdriel](https://github.com/mateusjatenee/)
   - [Wendell Adriel - WendellAdriel](https://github.com/WendellAdriel/)
 - Repositório: [https://github.com/Webschool-io/Curso-PHP-Laravel-Completo-E-Total](https://github.com/Webschool-io/Curso-PHP-Laravel-Completo-E-Total)
+
+
+## WordPress
+
+Curso completo sobre WordPress.
+
+- Profs.:
+  - [Elton Pereira - eltondev](https://github.com/eltondev)
+- Repositório: [https://github.com/Webschool-io/Curso-Wordpress](https://github.com/Webschool-io/Curso-Wordpress)
